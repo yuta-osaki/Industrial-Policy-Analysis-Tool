@@ -7,7 +7,7 @@
 
 「Industrial-Policy-Analysis-Tool.zip」ファイルをダウンロードして、作業環境下で解凍してください。分析用コード、データ格納フォルダ、出力フォルダ、が格納されています。
 本分析ツールは、３つのRコード（01_prepare.R、02_analysis.R、03_robustness）から構成されています。番号順に使用してください。
-<img width="874*0.8" height="501" alt="image" src="https://github.com/user-attachments/assets/79fdf51c-6f4f-4e2f-9c9d-bb5b7a14f2d1" />
+<img width="874*0.5" height="501*0.5" alt="image" src="https://github.com/user-attachments/assets/79fdf51c-6f4f-4e2f-9c9d-bb5b7a14f2d1" />
 
 作成した分析ツールの詳細については、「簡易的な産業政策評価ツールの作成」をご覧ください。
 [RIETI PDP（後日公表予定）]()
